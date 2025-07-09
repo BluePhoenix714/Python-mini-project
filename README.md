@@ -67,7 +67,3 @@ README.md              # Project documentation
 ## 👨‍💻 Author
 
 Developed by Tanmay Pansare
-
-## 📜 License
-
-This project is open source and available under the MIT License.
